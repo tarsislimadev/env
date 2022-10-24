@@ -1,1 +1,5 @@
-# env
+# ENV
+
+## License
+
+[MIT](./LICENSE)
