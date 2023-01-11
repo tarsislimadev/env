@@ -1,8 +1,6 @@
-# ENV
+# env
 
-## How to
-
-## Setup
+To set up environments.
 
 ## License
 
