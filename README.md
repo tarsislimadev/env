@@ -12,6 +12,10 @@ Project description
 
 ## how to use
 
+## author
+
+[Tarsis Lima](https://www.linkedin.com/in/brtmvdl/)
+
 ## license
 
 [MIT](./LICENSE)
