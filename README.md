@@ -14,7 +14,7 @@ Project description
 
 ## author
 
-[Tarsis Lima](https://www.linkedin.com/in/brtmvdl/)
+[@brtmvdl](https://www.linkedin.com/in/brtmvdl/)
 
 ## license
 
