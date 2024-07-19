@@ -11,7 +11,7 @@ services:
       - '8080:80'
 
   docker-push:
-    image: 'tmvdl/projects:[project]'
+    image: 'tmvdl/projects:english'
     build: './src/app'
 
   github-release:
